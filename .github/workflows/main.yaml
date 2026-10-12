@@ -3,9 +3,8 @@ name: Test And Build Project
 on:
   push:
     branches:
-      - main
       - master
-      - devops/ci_setup-workflow
+
 
 permissions:
   checks: write
