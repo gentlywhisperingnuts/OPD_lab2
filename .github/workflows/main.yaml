@@ -5,6 +5,7 @@ on:
     branches:
       - main
       - master
+      - devops/ci_setup-workflow
 
 permissions:
   checks: write
