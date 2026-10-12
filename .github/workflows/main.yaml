@@ -1,9 +1,3 @@
-name: Test and Build Project
-
-on:
-  workflow_dispatch:
-  push: 
-
 name: Test And Build Project
 
 on:
